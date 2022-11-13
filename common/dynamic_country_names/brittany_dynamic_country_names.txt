@@ -1,4 +1,4 @@
-﻿BRI = { # Brittany
+BRI = { # Brittany
 	dynamic_country_name = {
 		name = dyn_c_brittany_communist
 		is_main_tag_only = yes
