@@ -1,0 +1,12 @@
+{
+  "name" : "Dynamic Country Name - Brittany",
+  "id" : "",
+  "version" : "1.0.0",
+  "supported_game_version" : "1.0.3",
+  "short_description" : "Adds dynamic country name for Brittany",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
